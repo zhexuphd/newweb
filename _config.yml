@@ -1,22 +1,22 @@
 # Basic Information 
 title: Zhe Xu
-position: Ph.D. Student
-affiliation: Your Affiliation
+position: Walter Benjamin Research Associate
+affiliation: Department of Media and Communication, LMU Munich
 email: zhe.xu (at) lmu.de
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Zhe Xu, computational social science, computational journalism, crisis communication, LMU Munich
+description: Personal website of Zhe Xu
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=lxUyedYAAAAJ&hl=en
+cv_link: 
+github_link: https://github.com/zhexuphd
+linkedin: www.linkedin.com/in/drzhexu
+twitter: 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
