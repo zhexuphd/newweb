@@ -6,16 +6,13 @@ main:
     doi: https://journals.sagepub.com/doi/10.1177/10776990261496827
     data: https://datashare.ed.ac.uk/collections/97e435a1-7faa-499a-822d-cdb0078f2273/search
     code: https://github.com/zhexuphd/bertopic4news
-    image: ./assets/img/s1.jpg
 
   - title: "How News Media Visually Dehumanize Victims of Humanitarian Crises through Framing Disparities: A Quantitative Comparative Analysis"
     authors: <strong>Zhe Xu</strong>, Mengrong Zhang
     conference: <em>International Communication Gazette</em>, 86(8), 633–654, 2024.
     doi: https://journals.sagepub.com/doi/10.1177/17480485231216583
-    image: ./assets/img/s2.jpg
 
   - title: "The “Ultimate Empathy Machine” as Technocratic Solutionism? Audience Reception of the Distant Refugee Crisis through Virtual Reality"
     authors: <strong>Zhe Xu</strong>, Mengrong Zhang
     conference: <em>The Communication Review</em>, 25(3-4), 181–203, 2022. Special Issue: (De)constructing Societal Threats During Times of Deep Mediatization, edited by Paul Reilly and Virpi Salojärvi
     doi: https://doi.org/10.1080/10714421.2022.2129118
-    image: ./assets/img/s3.jpg
