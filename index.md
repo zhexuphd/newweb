@@ -10,8 +10,6 @@ I hold degrees in engineering science and media studies and received my PhD in 2
 
 I work in political communication, computational social science, and computational journalism, with a substantive focus on information manipulation, platformization, and socially responsible technology. My work has appeared in [Journalism & Mass Communication Quarterly](https://journals.sagepub.com/home/jmq) and [International Communication Gazette](https://journals.sagepub.com/home/gaz), among other peer-reviewed journals. The [DFG](https://www.dfg.de/), the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/), and [LMU Munich](https://www.lmu.de/en/) have supported my work.
 
-For academic service, I review for journals including [Digital Journalism](https://www.tandfonline.com/journals/rdij20), [New Media & Society](https://journals.sagepub.com/home/nms), [Social Science & Medicine](https://www.sciencedirect.com/journal/social-science-and-medicine), [Journalism](https://journals.sagepub.com/home/jou), and [Humanities and Social Sciences Communications](https://www.nature.com/palcomms/), and I serve as a grant and conference reviewer for the [Czech Science Foundation (GACR)](https://gacr.cz/en/), [ECREA](https://ecrea.eu/), and [IAMCR](https://iamcr.org/). I was also one of the core planners of the [8th International Conference on World-Class Universities](https://soe.sjtu.edu.cn/En/Show/781) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
-
 ## News
 
 - **[Sept. 2026]** Joined the Public Tech Media Lab at the University of Wisconsin–Madison.
