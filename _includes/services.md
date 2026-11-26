@@ -20,13 +20,13 @@
 <h4 style="margin:0 10px 0;">Grant and Conference Reviewer</h4>
 
 <ul class="service-list">
-  <li><a href="https://gacr.cz/en/"><autocolor>Czech Science Foundation (GACR)</autocolor></a></li>
-  <li><a href="https://ecrea.eu/"><autocolor>European Communication Research and Education Association (ECREA)</autocolor></a></li>
-  <li><a href="https://iamcr.org/"><autocolor>International Association for Media and Communication Research (IAMCR)</autocolor></a></li>
+  <li><a href="https://gacr.cz/en/">Czech Science Foundation (GACR)</a></li>
+  <li><a href="https://ecrea.eu/">European Communication Research and Education Association (ECREA)</a></li>
+  <li><a href="https://iamcr.org/">International Association for Media and Communication Research (IAMCR)</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Planning</h4>
 
 <ul class="service-list">
-  <li><a href="https://soe.sjtu.edu.cn/En/Show/781"><autocolor>Core planner, 8th International Conference on World-Class Universities, Shanghai Jiao Tong University</autocolor></a></li>
+  <li><a href="https://soe.sjtu.edu.cn/En/Show/781">Core planner, 8th International Conference on World-Class Universities, Shanghai Jiao Tong University</a></li>
 </ul>
