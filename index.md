@@ -19,5 +19,4 @@ For academic service, I review for journals including [Digital Journalism](https
 - **[June. 2024]** Awarded a €221,430 Walter Benjamin Grant by the DFG.
 
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
