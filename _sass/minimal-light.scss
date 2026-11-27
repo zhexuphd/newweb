@@ -595,24 +595,3 @@ footer {
   display:none;
   font-family: monospace;
 }
-
-@media (prefers-color-scheme: light) {
-  a,
-  a:visited,
-  a:hover,
-  a:focus {
-    color: #d000c8 !important;
-  }
-
-  strong,
-  b {
-    color: #000 !important;
-  }
-
-  a strong,
-  a b,
-  strong a,
-  b a {
-    color: #d000c8 !important;
-  }
-}
