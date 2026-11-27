@@ -13,7 +13,7 @@ I work in political communication, computational social science, and computation
 ## News
 
 - **[Sept. 2026]** Joined the Public Tech Media Lab at the University of Wisconsin–Madison.
-- **[Nov. 2025]** Spent time at the London School of Economics and Political Science as a visiting researcher, with a detour to Abbey Road and the Beatles on repeat.
+- **[Nov. 2025]** Spent time at the London School of Economics and Political Science (LSE) as a visiting researcher, with a detour to Abbey Road and the Beatles on repeat.
 - **[Sept. 2024]** Joined the Department of Media and Communication at LMU Munich.
 - **[June. 2024]** Awarded a €221,430 Walter Benjamin Grant by the DFG.
 
